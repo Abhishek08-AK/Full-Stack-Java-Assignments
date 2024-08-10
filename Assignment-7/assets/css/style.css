@@ -1,0 +1,106 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    background-color: rgba(255, 0, 0, 0.247);
+    padding: 10px 30px 0px 30px;
+    border-radius: 5px;
+    height: 23.5rem;
+    width: 22rem;
+}
+
+/* .login-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:10rem;
+    width: 17rem;
+    margin-top: -50px;
+    
+} */
+
+.title{
+    font-size: 40px;
+    text-align: center;
+    margin:10px 0px 10px 0px;
+}
+
+hr{
+    background-color: black;
+    height: 1px;
+}
+
+.inputs{
+margin-top: 10px;
+}
+
+.l1{
+    font-size: 1.3rem;
+}
+
+.user-input{
+    height: 30px;
+    width: 21.5rem;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.fpaswd{
+    margin-top: 8px; 
+    font-size: 20px;
+}
+
+.fp{
+    text-decoration: none;
+    color: blue;
+}
+
+.fp:hover{
+    text-decoration: underline;
+    color: red;
+    cursor: pointer;
+}
+
+.btn{
+    color: rgb(15, 15, 83);
+    font-size: 20px;
+    margin-top: 20px;
+    height: 2.5rem;
+    width: 10rem;
+    border-radius: 20px;
+    background-color: rgb(70, 70, 238);
+}
+#signup{
+    margin-left: 26px;
+}
+
+.btn:hover{
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}
+
+.register-btn{
+    color: blue;
+    font-size: 20px;
+    margin-left:10px;
+    text-decoration: none;     
+}
+
+.register-btn:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: red;
+}
+
+
+
+
+
+
